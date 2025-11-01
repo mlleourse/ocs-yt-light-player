@@ -3,7 +3,7 @@
 ## Installation
 Add this code snippet before </body>
 ```
-<script src="https://cdn.jsdelivr.net/npm/youtube-light-player@1.0.1/src/youtube-light-player.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mlleourse/ocs-yt-light-player@latest/src/youtube-light-player.js?min"></script>
 ```
 ## youtube-light-player
 Add this element in the desired place:
